@@ -11,9 +11,9 @@ The training and test sets are merged together, provided with meaningful labels,
 
 After that, the script produces averages for all subject-activity groups, and writes a second CSV file in the working directory with the resulting data set.
 
-The `run_analysis.R` script is commented to indicate which parts of the code are responsible for which transformations. See `CodeBook.md` for additional information on resulting data sets.
+The `run_analysis.R` script is commented to indicate which parts of the code are responsible for which transformations. 
 
-Reference:
+See `CodeBook.md` for additional information on resulting data sets.
 
-[1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
+
 
